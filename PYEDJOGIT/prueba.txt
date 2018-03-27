@@ -1,0 +1,45 @@
+start EDJO prueba;
+from turtle import Turtle;
+void algo(int a, int b){
+	int x;
+	s = c; 
+
+	while(x<3){
+		joel.forward(n/3);
+		x = x + 3;
+		if(x<5){
+			print(b);
+		}
+	}
+	if(x<3){
+		x = 3;
+	}
+	if (x = 3){
+		print(x);
+	}
+	if(x<3){
+		x = 3;
+	}
+	else{
+		x = 4+1/2;
+	}
+	print(a);
+}
+void hola(){
+	print("hola");
+}
+
+main(){
+	int a; 
+	bool joel; 
+	string svar;
+	print("hola como estas");
+	print(joel);
+	if( joel = x){
+		print("hola");
+	}
+	else{
+		joel = x; 
+	}
+Return zero;
+}

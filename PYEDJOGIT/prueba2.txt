@@ -1,0 +1,3 @@
+start EDJO prueba; 
+int x;
+decimal y = 4, z;
