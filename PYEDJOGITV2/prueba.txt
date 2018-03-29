@@ -1,0 +1,15 @@
+start EDJO prueba;
+int x, y;
+void joel(int a, int b){
+	int l;
+}
+void cantu(int x, int y){
+	bool puede;
+	return x;
+}
+
+main(){
+int vicky;
+Return zero;
+
+}
