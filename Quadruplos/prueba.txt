@@ -1,0 +1,16 @@
+start EDJO prueba;
+int x;
+func void algo(int z){
+	print(z);
+}
+main(){
+	int z;
+	z = 4;
+	while (z < 10){
+		z = z + 1;
+	}
+	print(z);
+	algo(z);
+Return zero;
+
+}
