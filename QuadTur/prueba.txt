@@ -1,0 +1,10 @@
+start EDJO prueba;
+int x;
+main(){
+	x = 9;
+	x = x + 10.34444;
+	print(x);
+
+Return zero;
+}
+
