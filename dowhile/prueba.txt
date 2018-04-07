@@ -1,0 +1,21 @@
+start EDJO prueba;
+int x, y;
+main(){
+	x = 9;
+	y = x + 1;
+
+	do{
+		if(x > 0){
+			x = x - 1;
+		}
+		else{
+		print(y);
+		}
+
+	} while (x > 6);
+
+	print(x);
+
+Return zero;
+}
+
